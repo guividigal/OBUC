@@ -11,4 +11,4 @@ internet explorer: varios bugs inclusive rodando em localhost nao inseriu os dad
 
 Instruções para executar
 
-abrir o arquivo local.html (contendo a pagina de inserção dos locais de trabalho)
+abrir o arquivo locais_estacoes.html (contendo a pagina de inserção dos locais de trabalho)
