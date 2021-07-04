@@ -8,3 +8,7 @@ Chrome: 100% compatível. /
 Edge: 100% compatível. /
 Firefox: apenas 1 bug:  um pouco pra esquerda a posição do botão (+) de adicionar local de trabalho. /
 internet explorer: varios bugs inclusive rodando em localhost nao inseriu os dados.
+
+Instruções para executar
+
+abrir o arquivo local.html (contendo a pagina de inserção dos locais de trabalho)
