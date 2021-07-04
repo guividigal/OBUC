@@ -17,7 +17,7 @@ window.onload = () => {
             return;
         }
 
-        alert("Todos os campos são obrigatórios!");
+        alert("Verifique os campos obrigatórios!");
     });
 
     $(document).on('click', '.edit', function() {
@@ -42,9 +42,9 @@ window.onload = () => {
 }
 
 function getArray() {
-    let arr = sessionStorage.getItem('vidigal.locais_trabalho');
+    let arr = sessionStorage.getItem('obuc.locais_trabalho');
     
-    return arr ? JSON.parse(sessionStorage.getItem('vidigal.locais_trabalho')) : [];
+    return arr ? JSON.parse(sessionStorage.getItem('obuc.locais_trabalho')) : [];
 }
 
 function addLocal(predio, local) {
@@ -56,7 +56,7 @@ function addLocal(predio, local) {
 
     arrLocaisTrabalho.push(item)
 
-    sessionStorage.setItem('vidigal.locais_trabalho', JSON.stringify(arrLocaisTrabalho));
+    sessionStorage.setItem('obuc.locais_trabalho', JSON.stringify(arrLocaisTrabalho));
 
     return item;
 }
@@ -64,7 +64,7 @@ function addLocal(predio, local) {
 function delLocal(id) {
     arrLocaisTrabalho.splice(arrLocaisTrabalho.findIndex(local => local.id == id), 1)
 
-    sessionStorage.setItem('vidigal.locais_trabalho', JSON.stringify(arrLocaisTrabalho));
+    sessionStorage.setItem('obuc.locais_trabalho', JSON.stringify(arrLocaisTrabalho));
 }
 
 function upLocal(id, predio, local) {
@@ -73,7 +73,7 @@ function upLocal(id, predio, local) {
     item.predio = predio;
     item.local = local;
 
-    sessionStorage.setItem('vidigal.locais_trabalho', JSON.stringify(arrLocaisTrabalho));
+    sessionStorage.setItem('obuc.locais_trabalho', JSON.stringify(arrLocaisTrabalho));
 
     return item;
 }
