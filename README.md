@@ -10,7 +10,7 @@ Firefox: apenas 1 bug:  um pouco pra esquerda a posição do botão (+) de adici
 internet explorer: alguns bugs: rodando em localhost nao inseriu os dados. Layout não foi criado para rodar em dispositivos móveis.
 
 # Instruções para executar: 
-abrir o arquivo locais_estacoes.html (contendo a pagina de inserção dos locais de trabalho)
+abrir o arquivo locais_trabalho.html (contendo a pagina de inserção dos locais de trabalho)
 
 # Projeto pode ser acessado online diretamente atraves do link:
 https://vidiweb.com.br/obuc/locais_trabalho.html
