@@ -15,4 +15,4 @@ abrir o arquivo locais_estacoes.html (contendo a pagina de inserção dos locais
 # Projeto pode ser acessado online diretamente atraves do link:
 https://vidiweb.com.br/obuc/locais_trabalho.html
 
-## Obs: como não tive tempo de melhorias, tentei deixar os códigos o mais limpo possível, fácil de ser lido.
+## Obs: como não tive tempo de melhorias, tentei deixar os códigos o mais limpo possível, fácil de serem lidos.
