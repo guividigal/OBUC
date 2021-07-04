@@ -1,4 +1,4 @@
-# Mini Sistema de Cadastro
+# Mini Sistema de Cadastro usando sessionStorage.
 
 Esse projeto foi criado em HTML, CSS e JavaScript usando bootstrap. 
 Como fui ver o email só hoje (domningo) às 09:00h, não deu tempo de implementar melhorias no layout, focando mais tempo no javascript.
