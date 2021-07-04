@@ -13,4 +13,4 @@ internet explorer: alguns bugs: rodando em localhost nao inseriu os dados. Layou
 abrir o arquivo locais_estacoes.html (contendo a pagina de inserção dos locais de trabalho)
 
 # Projeto pode ser acessado online diretamente atraves do link:
-https://vidiweb.com.br/obuc/locais_estacoes.html
+https://vidiweb.com.br/obuc/locais_trabalho.html
