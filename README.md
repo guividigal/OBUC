@@ -11,8 +11,8 @@ internet explorer: alguns bugs: rodando em localhost nao inseriu os dados. Layou
 
 # Instruções para executar: 
 abrir o arquivo locais_trabalho.html (contendo a pagina de inserção dos locais de trabalho)
-## Pasta /css contém os arquivos do bootstrap e do layout utilizado.
-## Pasta /js contém os scripts do bootstrap, Jquery e no arquivo script.js contém o código de inserção dos dados via Session.
+### Pasta /css contém os arquivos do bootstrap e do layout utilizado.
+### Pasta /js contém os scripts do bootstrap, Jquery e no arquivo script.js contém o código de inserção dos dados via Session.
 
 # Projeto pode ser acessado online diretamente atraves do link:
 https://vidiweb.com.br/obuc/locais_trabalho.html
