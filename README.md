@@ -17,4 +17,4 @@ internet explorer: alguns bugs: rodando em localhost nao inseriu os dados. Layou
 # Projeto pode ser acessado online diretamente atraves do link:
 https://vidiweb.com.br/obuc/locais_trabalho.html
 
-#### Obs: como não tive tempo de melhorias, tentei deixar os códigos o mais limpo possível.
+#### Obs: como não tive tempo pras melhorias, tentei deixar os códigos o mais limpo possível.
